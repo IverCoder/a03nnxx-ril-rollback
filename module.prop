@@ -1,0 +1,7 @@
+id=a03nnxx-ril-rollback
+name=Fix SMS for Galaxy A03
+version=1
+versionCode=1
+author=IverCoder
+description=Fix SMS on Samsung Galaxy A03 by rolling back the RIL libraries.
+updateJson=https://raw.githubusercontent.com/IverCoder/a03nnxx-ril-rollback/main/update.json
