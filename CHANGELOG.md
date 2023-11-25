@@ -1,4 +1,4 @@
-# v2
+# v1.1
 - Added better information on `module.prop`.
 
 # v1
